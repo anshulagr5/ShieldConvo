@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ShieldConvo</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="message">Message -</string>
+    <string name="secret_key">Secret Key -</string>
+    <string name="enter_secret_key">Enter secret key</string>
+    <string name="enter_message">Enter message</string>
+    <string name="encode">Encode</string>
+    <string name="save_image">Save Image</string>
+    <string name="no_image_msg">No message found /Incorrect secret key</string>
+    <string name="output_text">Output Text:</string>
+    <string name="clear">CLEAR</string>
+    <string name="send">Send</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="enter_text">Enter text</string>
+    <string name="decode">Decode</string>
+    <string name="reset_key">Reset Key</string>
+</resources>
